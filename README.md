@@ -1,5 +1,5 @@
 # Start-Cisco-VPN
-Prompt user to login to Cisco VPN when not on the Rutgers network
+Prompt user to login to Cisco Anyconnect VPN when not on the Rutgers network
 
 Powershell script is designed to be run with Cisco AnyConnect client version 5.1x.
   1. Download the script, start-vpn.psi copy it to a location on your domain server for distribution.<BR>
